@@ -46,24 +46,24 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.15.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.16.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`AI_Launcher_v3.0.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
 ---
 **[Recommended Plugins]**
 --
-- [`BepInEx_v5.4.10`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_v5.4.11`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Plugins_r16.3`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`BepInEx.IPALoader_v1.2.2`](https://github.com/BepInEx/IPALoaderX/releases)
+- [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
-- [`BepInEx.Configuration_Manager_v16.2`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
+- [`BepInEx.Configuration_Manager_v16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_v1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
 - [`AI_Manager_ᴠ0.16.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`AI_Illusion_Fixes_v15.2.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`AI_API_v1.18`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`AI_API_v1.19`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_ABMX_v4.4.1`](https://github.com/ManlyMarco/ABMX/releases)
-- [`AI_Material_Editor_v3.0.5`](https://www.patreon.com/posts/48764037)
+- [`AI_Material_Editor_v3.1.1`](https://www.patreon.com/posts/materialeditor-1-51454810)
 - [`AI_Illusion_Overlay_Mods_ᴠ6.0.1`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`AI_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/hs-ai-hs2-1-4-1-41718360)
 
@@ -113,7 +113,7 @@
 - [`AI_Better_Penetration_v3.0.2`](https://github.com/Animal42069/BetterPenetration) 
 - [`AI_Studio_Better_Penetration_v1.0.1`](https://github.com/Animal42069/BetterPenetration/releases/tag/1.0.1) 
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
-- [`AI_Pregnancy_Plus_ᴠ3.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`AI_Adv_IK_Plugin_v1.5.3`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`AI_Pregnancy_Plus_ᴠ3.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`AI_Adv_IK_Plugin_v1.5.5`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`AI_Dynamic_Bone_Editor_v1.0.3`](https://www.patreon.com/posts/48134621)
 - [`AI_Cheat_Tools_v2.10.1`](https://www.patreon.com/posts/37889909)
