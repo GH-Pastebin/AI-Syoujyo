@@ -46,7 +46,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.16.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.16.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`AI_Launcher_v3.0.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
 ---
@@ -96,7 +96,7 @@
 - [`AI_Extra_Girls_v1.0.4`](https://github.com/Mantas-2155X/AI_ExtraGirls/releases)
 - [`AI_Better_H_Scenes_v2.6.2`](https://github.com/Mantas-2155X/BetterHScenes/releases)
 - [`AI_Move_Controller_v1.5`](https://mikkemods.blogspot.com/2019/12/move-controller-15-for-studioneov2.html)
-- [`AI_Quick_Access_Box_v2.3`](https://www.patreon.com/posts/38060886)
+- [`AI_Quick_Access_Box_v2.4`](https://www.patreon.com/posts/38060886)
 - [`AI_Renderer_Editor_v1.6.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-6-39556121)
 - [`AI_Video_Export_v1.1.0`](https://www.patreon.com/posts/32172852)
 - [`AI_AIUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
