@@ -122,3 +122,4 @@
 - [`AI_Adv_IK_Plugin_v1.6.3`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`AI_Dynamic_Bone_Editor_v1.0.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Cheat_Tools_v2.10.2`](https://www.patreon.com/posts/37889909)
+- [`AI_VN_Game_Engine_ᴠ30.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
