@@ -63,7 +63,7 @@
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`BepInEx.Configuration_Manager_v16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_v1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`AI_Manager_ᴠ0.17.0`](https://github.com/IllusionMods/KKManager/releases)
+- [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`AI_Illusion_Fixes_v16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`AI_API_v1.24`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
