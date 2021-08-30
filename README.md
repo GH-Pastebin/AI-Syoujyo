@@ -115,7 +115,7 @@
 - [`AI_Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Height_Bar_v3.3`](https://www.patreon.com/posts/35859949) 
 - [`AI_Cloth_Colliders_v1.1.0.0`](https://github.com/ManlyMarco/Illusion_ClothColliders)
-- [`AI_Better_Penetration_v4.2.0`](https://github.com/Animal42069/BetterPenetration) 
+- [`AI_Better_Penetration_v4.3.0`](https://github.com/Animal42069/BetterPenetration) 
 - [`AI_Studio_Better_Penetration_v2.1.0`](https://github.com/Animal42069/BetterPenetration/releases/tag/1.0.1) 
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`AI_Pregnancy_Plus_ᴠ3.16`](https://github.com/thojmr/KK_PregnancyPlus/releases)
