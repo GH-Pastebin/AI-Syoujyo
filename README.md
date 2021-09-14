@@ -127,3 +127,4 @@
 - [`AI_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`AI_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`AI_Additional_Accessory_Controls_v1.1.8`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
+- [`AI_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
