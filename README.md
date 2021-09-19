@@ -65,7 +65,7 @@
 - [`BepInEx.Message_Center_v1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`AI_Illusion_Fixes_v16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`AI_Illusion_Fixes_v17.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`AI_API_v1.25`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
