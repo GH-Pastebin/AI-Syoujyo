@@ -58,7 +58,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.7`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`BepInEx.Plugins_r16.8`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`BepInEx.Configuration_Manager_v16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
