@@ -69,7 +69,7 @@
 - [`AI_API_v1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
-- [`AI_Material_Editor_v3.1.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`AI_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/hs-ai-hs2-1-4-1-41718360)
 
@@ -129,3 +129,4 @@
 - [`AI_Additional_Accessory_Controls_v1.1.8`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`AI_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
 - [`AI_Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.5)
+- [`AI_Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
