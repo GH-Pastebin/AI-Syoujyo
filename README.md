@@ -70,7 +70,7 @@
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
-- [`AI_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`AI_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`AI_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/hs-ai-hs2-1-4-1-41718360)
 
 --- 
@@ -120,7 +120,7 @@
 - [`AI_Studio_Better_Penetration_v2.1.0`](https://github.com/Animal42069/BetterPenetration/releases/tag/1.0.1) 
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`AI_Pregnancy_Plus_ᴠ3.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`AI_Adv_IK_Plugin_v1.6.3`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`AI_Adv_IK_Plugin_v1.6.4`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`AI_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Cheat_Tools_v3.0`](https://www.patreon.com/posts/37889909)
 - [`AI_VN_Game_Engine_ᴠ30.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
