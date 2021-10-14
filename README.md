@@ -68,7 +68,7 @@
 - [`AI_Illusion_Fixes_v17.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`AI_API_v1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
-- [`AI_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
+- [`AI_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`AI_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/hs-ai-hs2-1-4-1-41718360)
