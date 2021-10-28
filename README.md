@@ -58,7 +58,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.8.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`BepInEx.Plugins_r16.9`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`BepInEx.Configuration_Manager_v16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
@@ -66,7 +66,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`AI_Illusion_Fixes_v18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`AI_API_v1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`AI_API_v1.28`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
