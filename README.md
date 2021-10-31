@@ -123,7 +123,7 @@
 - [`AI_Adv_IK_Plugin_v1.6.4`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`AI_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Cheat_Tools_v3.0`](https://www.patreon.com/posts/37889909)
-- [`AI_VN_Game_Engine_ᴠ30.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`AI_VN_Game_Engine_ᴠ32.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`AI_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`AI_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`AI_Additional_Accessory_Controls_v1.2.0`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
