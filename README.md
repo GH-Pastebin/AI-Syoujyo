@@ -38,7 +38,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`AI_Uncensor_Selector_ᴠ3.11.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Uncensor_Selector_ᴠ3.11.5`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_UncensorSelector_Package_v0.31`](https://mega.nz/#!DVEhQQzI!Er78RgN6xlAx_97gDgvjLiGEMnifDxUeZiRZLTBcMds)
 - [`AI_Male_UncensorSelector_v2.0`](http://www.mediafire.com/file/56elxi6b1q2h95v/AI_Male_UncensorSelector_v2.0.zip/file)
 - [`AI_Male_Uncensor_v0.12`](https://mega.nz/#!TY1AhAgK!pKHyDKWNQ_-sAly_70VTzNBp2ZbQ3PxU0qjsWLC66EM)
@@ -66,7 +66,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`AI_Illusion_Fixes_v18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`AI_API_v1.28.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`AI_API_v1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
