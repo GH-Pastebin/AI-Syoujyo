@@ -70,7 +70,7 @@
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
-- [`AI_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`AI_Illusion_Overlay_Mods_ᴠ6.0.5`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`AI_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/hs-ai-hs2-1-4-1-41718360)
 
 --- 
@@ -109,7 +109,7 @@
 - [`AI_AIPE_v2.12.0`](https://www.patreon.com/posts/38673900)
 - [`AI_VMD_Play_v0.7.0`](http://www.mediafire.com/file/u6tjxt4nbfchnc5/AI_VMDPlay_v0.7.0.rar/file) 
 - [`AI_STUDIO_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
-- [`AI_Browser_Folders_v2.6.1`](https://www.patreon.com/posts/40644638)
+- [`AI_Browser_Folders_v2.6.2`](https://www.patreon.com/posts/40644638)
 - [`AI_H_Light_Control_v1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`AI_Beaver_Plugin_v1.2.2 `](https://mikkemods.blogspot.com/2020/09/beaver-plugin-122.html)
 - [`AI_Studio_Scene_Settings_v1.3`](https://github.com/IllusionMods/KK_Plugins)
