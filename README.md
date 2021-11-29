@@ -58,7 +58,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.9.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`BepInEx.Plugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`BepInEx.Configuration_Manager_v16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
@@ -68,9 +68,9 @@
 - [`AI_Illusion_Fixes_v18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`AI_API_v1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
-- [`AI_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
+- [`AI_ABMX_v4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
-- [`AI_Illusion_Overlay_Mods_ᴠ6.0.5`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`AI_Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`AI_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/hs-ai-hs2-1-4-1-41718360)
 
 --- 
@@ -124,10 +124,11 @@
 - [`AI_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Cheat_Tools_v3.0`](https://www.patreon.com/posts/37889909)
 - [`AI_VN_Game_Engine_ᴠ32.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
-- [`AI_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
+- [`AI_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`AI_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`AI_Additional_Accessory_Controls_v1.2.0`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`AI_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
 - [`AI_Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.5)
 - [`AI_Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`AI_Graphics_Plugin_v0.4.5`](https://github.com/OrangeSpork/Graphics/releases)
+- [`AI_Moar_Camz_Plugin_v1.0.6`](https://github.com/OrangeSpork/MoarCamz)
