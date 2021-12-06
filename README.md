@@ -126,7 +126,7 @@
 - [`AI_VN_Game_Engine_ᴠ33.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`AI_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`AI_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
-- [`AI_Additional_Accessory_Controls_v1.2.0`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
+- [`AI_Additional_Accessory_Controls_v1.2.2`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`AI_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
 - [`AI_Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.5)
 - [`AI_Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
