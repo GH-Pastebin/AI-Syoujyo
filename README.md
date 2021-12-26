@@ -79,8 +79,8 @@
 - [`AI_Animation_Controller_v2.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_AIUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
 - [`AI_AIPE_v2.12.0`](https://www.patreon.com/posts/38673900)
-- [`AI_Adv_IK_Plugin_v1.6.4`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
-- [`AI_Additional_Accessory_Controls_v1.2.2`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
+- [`AI_Adv_IK_Plugin_v1.6.8`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`AI_Additional_Accessory_Controls_v1.2.4`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 
 [B]
 --
@@ -117,11 +117,11 @@
 
 [G]
 --
-- [`AI_Graphics_Plugin_v0.4.5`](https://github.com/OrangeSpork/Graphics/releases)
+- [`AI_Graphics_Plugin_v0.4.9`](https://github.com/OrangeSpork/Graphics/releases)
 
 [H]
 --
-- [`AI_Heelz_Mod_v1.12.0`](https://github.com/hooh-hooah/AI_Heelz/releases)
+- [`AI_Heelz_Mod_v1.14.3`](https://github.com/hooh-hooah/AI_Heelz/releases)
 - [`AI_H_Light_Control_v1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`AI_Height_Bar_v3.4`](https://www.patreon.com/posts/35859949) 
 - [`AI_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
@@ -149,7 +149,7 @@
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`AI_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`AI_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
-- [`AI_Moar_Camz_Plugin_v1.0.6`](https://github.com/OrangeSpork/MoarCamz)
+- [`AI_Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
 
 [N]
 -- 
@@ -168,6 +168,7 @@
 - [`AI_Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`AI_Pose_Folder_v1.0`](https://github.com/IllusionMods/KK_Plugins)
+
 [Q]
 --
 - [`AI_Quick_Access_Box_v2.4.4`](https://www.patreon.com/posts/38060886)
@@ -185,7 +186,6 @@
 
 [T]
 --
-- [`AI_Test_Project_v0.5`](http://www.mediafire.com/file/i613p8j5wiwqmok/AI_Test_Project_v0.5.rar/file)
 
 [U]
 --
