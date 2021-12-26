@@ -53,7 +53,7 @@
 --
 - [`AI_Launcher_v3.2.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`XUnity.AutoTranslator-BepIn-5x-4.21.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- 
+ 
 ---
 **[Recommended Plugins]**
 --
