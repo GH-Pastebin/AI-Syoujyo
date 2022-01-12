@@ -80,7 +80,7 @@
 - [`AI_AIUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
 - [`AI_AIPE_v2.12.0`](https://www.patreon.com/posts/38673900)
 - [`AI_Adv_IK_Plugin_v1.6.8`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
-- [`AI_Additional_Accessory_Controls_v1.2.4`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
+- [`AI_Additional_Accessory_Controls_v1.2.5`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 
 [B]
 --
@@ -149,16 +149,16 @@
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`AI_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`AI_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
-- [`AI_Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
+- [`AI_Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 
 [N]
 -- 
 - [`AI_Nodes_Constraints_v1.2.1`](https://joan6694.bitbucket.io/)
 - [`AI_No_Body_Mask`](http://www.mediafire.com/file/fgfamohkohxqvuj/AI_No_Body_Mask.zip/file)
 
-
 [O]
 --
+- [`AI_Outfit_Painter_v1.0.1`](https://github.com/OrangeSpork/OutfitPainter/releases)
 
 [P]
 --
