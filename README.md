@@ -79,7 +79,7 @@
 - [`AI_Animation_Controller_v2.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_AIUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
 - [`AI_AIPE_v2.12.0`](https://www.patreon.com/posts/38673900)
-- [`AI_Adv_IK_Plugin_v1.6.8`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`AI_Adv_IK_Plugin_v1.7.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`AI_Additional_Accessory_Controls_v1.2.5`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 
 [B]
