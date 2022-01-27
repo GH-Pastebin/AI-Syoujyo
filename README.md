@@ -122,7 +122,7 @@
 [H]
 --
 - [`AI_Heelz_Mod_v1.14.3`](https://github.com/hooh-hooah/AI_Heelz/releases)
-- [`AI_H_Light_Control_v1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
+- [`AI_H_Light_Control_v1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`AI_Height_Bar_v3.4`](https://www.patreon.com/posts/35859949) 
 - [`AI_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
 
@@ -190,7 +190,7 @@
 [U]
 --
 - [`AI_Unlock_Player_Height_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHeight/releases) 
-- [`AI_Unlock_Player_H_Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
+- [`AI_Unlock_Player_H_Clothes_v1.4.4`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 
 [V]
 --
