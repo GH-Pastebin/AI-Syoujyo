@@ -143,7 +143,7 @@
 
 [M]
 --
-- [`AI_Material_Editor_v3.1.12`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Material_Editor_v3.1.14`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`AI_Move_Controller_v1.5`](https://mikkemods.blogspot.com/2019/12/move-controller-15-for-studioneov2.html)
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
