@@ -143,12 +143,12 @@
 
 [M]
 --
-- [`AI_Material_Editor_v3.1.14`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Material_Editor_v3.1.16`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`AI_Move_Controller_v1.5`](https://mikkemods.blogspot.com/2019/12/move-controller-15-for-studioneov2.html)
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`AI_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
-- [`AI_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
+- [`AI_Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`AI_Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 
 [N]
