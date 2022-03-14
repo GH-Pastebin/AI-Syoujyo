@@ -58,7 +58,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.19`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r17.0`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`BepInEx.Plugins_r18.0`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`BepInEx.Configuration_Manager_v16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
@@ -197,6 +197,7 @@
 --
 - [`AI_Video_Export_v1.1.0`](https://www.patreon.com/posts/32172852)
 - [`AI_VMD_Play_v0.7.0`](http://www.mediafire.com/file/u6tjxt4nbfchnc5/AI_VMDPlay_v0.7.0.rar/file) 
+- [`AI_VN_Game_Engine_v36.6`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 
 [W]
 --
