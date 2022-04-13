@@ -90,7 +90,7 @@
 - [`AI_Better_H_Scenes_v2.6.5`](https://github.com/Mantas-2155X/BetterHScenes/releases)
 - [`AI_Browser_Folders_v2.6.2`](https://www.patreon.com/posts/40644638)
 - [`AI_Beaver_Plugin_v1.2.2 `](https://mikkemods.blogspot.com/2020/09/beaver-plugin-122.html)
-- [`AI_Better_Penetration_v4.5.0`](https://github.com/Animal42069/BetterPenetration) 
+- [`AI_Better_Penetration_v5.0.0.3`](https://github.com/Animal42069/BetterPenetration) 
 
 [C]
 --
