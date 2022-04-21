@@ -67,7 +67,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`AI_Illusion_Fixes_v19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`AI_API_v1.31.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`AI_API_v1.32`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 --- 
 **[Utility Plugins]**
@@ -144,7 +144,7 @@
 
 [M]
 --
-- [`AI_Material_Editor_v3.1.16`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Material_Editor_v3.1.17`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`AI_Move_Controller_v1.5`](https://mikkemods.blogspot.com/2019/12/move-controller-15-for-studioneov2.html)
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
@@ -184,7 +184,7 @@
 - [`AI_Specter_v0.3`](https://ux.getuploader.com/moistened_eye/download/130)
 - [`AI_STUDIO_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
 - [`AI_Studio_Scene_Settings_v1.3`](https://github.com/IllusionMods/KK_Plugins)
-- [`AI_Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`AI_Subtitles_v2.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [T]
 --
