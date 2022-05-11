@@ -167,7 +167,7 @@
 - [`AI_Push_Up_v2.1`](https://mikkemods.blogspot.com/2020/07/pushup-plugin-v21-corset-effect.html)
 - [`AI_Pose_Editor_v2.10.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Pose_Quick_Load_v1.1`](https://github.com/IllusionMods/KK_Plugins)
-- [`AI_Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`AI_Pregnancy_Plus_ᴠ7.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`AI_Pose_Folder_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Pose_Tools_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
