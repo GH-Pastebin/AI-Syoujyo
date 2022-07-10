@@ -52,22 +52,23 @@
 ---
 **[English Translation]**
 --
-- [`AI_Launcher_v3.2.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
-- [`XUnity.AutoTranslator-BepIn-5x-5.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`AI_Launcher_v3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-5.1.0/IL2CP`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
  
 ---
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.19`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_IL2CPP_v6.0.0_BE_571`](https://builds.bepinex.dev/)
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
-- [`BepInEx.Configuration_Manager_v16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
+- [`BepInEx.Configuration_Manager_v17.0`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_v1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
-- [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
+- [`Runtime_Unity_Editor_BepInEx5_v2.6.2`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
+- [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`AI_Illusion_Fixes_v19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`AI_API_v1.32`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`AI_API_v1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 --- 
 **[Utility Plugins]**
