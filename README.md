@@ -58,7 +58,7 @@
 ---
 **[Recommended Plugins]**
 --
-- [`BepInEx_v5.4.19`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_v5.4.21`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
