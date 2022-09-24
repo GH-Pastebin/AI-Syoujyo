@@ -59,15 +59,15 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.19`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx_IL2CPP_v6.0.0_BE_571`](https://builds.bepinex.dev/)
+- [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
-- [`BepInEx.Configuration_Manager_v17.0`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
+- [`BepInEx.Configuration_Manager_v17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_v1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`Runtime_Unity_Editor_BepInEx5_v2.6.2`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
+- [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`AI_Illusion_Fixes_v19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`AI_Illusion_Fixes_v20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`AI_API_v1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 --- 
