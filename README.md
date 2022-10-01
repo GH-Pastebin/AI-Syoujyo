@@ -53,13 +53,12 @@
 **[English Translation]**
 --
 - [`AI_Launcher_v3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
-- [`XUnity.AutoTranslator-BepIn-5x-5.1.0/IL2CP`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
  
 ---
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.21`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
