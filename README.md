@@ -59,7 +59,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.21`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r19.0.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`BepInEx.Plugins_r19.0.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`BepInEx.Configuration_Manager_v17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
@@ -144,7 +144,7 @@
 
 [M]
 --
-- [`AI_Material_Editor_v3.1.17`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Material_Editor_v3.1.19`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`AI_Move_Controller_v1.5`](https://mikkemods.blogspot.com/2019/12/move-controller-15-for-studioneov2.html)
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
