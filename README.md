@@ -59,14 +59,14 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.21`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r19.0.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`BepInEx.Plugins_r19.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`BepInEx.IPALoader_v1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`BepInEx.Configuration_Manager_v17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_v1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
+- [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`AI_Illusion_Fixes_v20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`AI_Illusion_Fixes_v20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`AI_API_v1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 --- 
@@ -98,7 +98,7 @@
 - [`AI_Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`AI_Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Cloth_Colliders_v1.1`](https://github.com/ManlyMarco/Illusion_ClothColliders)
-- [`AI_Cheat_Tools_v3.1.1`](https://www.patreon.com/posts/37889909)
+- [`AI_Cheat_Tools_v3.2.0`](https://www.patreon.com/posts/37889909)
 
 
 [D]
