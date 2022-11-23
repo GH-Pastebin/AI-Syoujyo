@@ -75,7 +75,7 @@
 
 [A]
 --
-- [`AI_ABMX_v5.0.0`](https://github.com/ManlyMarco/ABMX/releases)
+- [`AI_ABMX_v5.0.1`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_Animation_Controller_v2.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_AIUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
@@ -144,7 +144,7 @@
 
 [M]
 --
-- [`AI_Material_Editor_v3.1.20`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Material_Editor_v3.1.21`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`AI_Move_Controller_v1.5`](https://mikkemods.blogspot.com/2019/12/move-controller-15-for-studioneov2.html)
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
