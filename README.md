@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`AI_Uncensor_Selector_ᴠ3.11.5`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Uncensor_Selector_ᴠ3.11.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_UncensorSelector_Package_v0.31`](https://mega.nz/#!DVEhQQzI!Er78RgN6xlAx_97gDgvjLiGEMnifDxUeZiRZLTBcMds)
 - [`AI_Male_UncensorSelector_v2.0`](http://www.mediafire.com/file/56elxi6b1q2h95v/AI_Male_UncensorSelector_v2.0.zip/file)
 - [`AI_Male_Uncensor_v0.12`](https://mega.nz/#!TY1AhAgK!pKHyDKWNQ_-sAly_70VTzNBp2ZbQ3PxU0qjsWLC66EM)
@@ -104,7 +104,7 @@
 [D]
 --
 - [`AI_DHH_v1.15`](https://brangnim.tistory.com/224?category=843876)
-- [`AI_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Dynamic_Bone_Editor_v1.0.5`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.7)
 
 [E]
@@ -144,7 +144,7 @@
 
 [M]
 --
-- [`AI_Material_Editor_v3.1.19`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Material_Editor_v3.1.20`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`AI_Move_Controller_v1.5`](https://mikkemods.blogspot.com/2019/12/move-controller-15-for-studioneov2.html)
 - [`AI_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
@@ -198,7 +198,7 @@
 --
 - [`AI_Video_Export_v1.1.0`](https://www.patreon.com/posts/32172852)
 - [`AI_VMD_Play_v0.7.0`](http://www.mediafire.com/file/u6tjxt4nbfchnc5/AI_VMDPlay_v0.7.0.rar/file) 
-- [`AI_VN_Game_Engine_v39.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
+- [`AI_VN_Game_Engine_v40.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 
 [W]
 --
