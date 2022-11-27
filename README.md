@@ -67,7 +67,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`AI_Illusion_Fixes_v20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`AI_API_v1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`AI_API_v1.35`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 --- 
 **[Utility Plugins]**
