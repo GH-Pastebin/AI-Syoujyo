@@ -75,7 +75,7 @@
 
 [A]
 --
-- [`AI_ABMX_v5.0.1`](https://github.com/ManlyMarco/ABMX/releases)
+- [`AI_ABMX_v5.0.2`](https://github.com/ManlyMarco/ABMX/releases)
 - [`AI_AIPE_v2.11.1`](https://www.patreon.com/posts/37188529)
 - [`AI_Animation_Controller_v2.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_AIUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
