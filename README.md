@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`AI_Uncensor_Selector_ᴠ3.11.6`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Uncensor_Selector_ᴠ3.11.7`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_UncensorSelector_Package_v0.31`](https://mega.nz/#!DVEhQQzI!Er78RgN6xlAx_97gDgvjLiGEMnifDxUeZiRZLTBcMds)
 - [`AI_Male_UncensorSelector_v2.0`](http://www.mediafire.com/file/56elxi6b1q2h95v/AI_Male_UncensorSelector_v2.0.zip/file)
 - [`AI_Male_Uncensor_v0.12`](https://mega.nz/#!TY1AhAgK!pKHyDKWNQ_-sAly_70VTzNBp2ZbQ3PxU0qjsWLC66EM)
@@ -66,7 +66,7 @@
 - [`BepInEx.Message_Center_v1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v4.1.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
-- [`AI_Illusion_Fixes_v20.2a`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`AI_Illusion_Fixes_v21.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`AI_API_v1.35`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 --- 
@@ -89,14 +89,14 @@
 - [`AI_Breasts & Floor_Collider`](https://mega.nz/#!hUNnSASC!8Wm7r_g1jM0uFBb0RpS1x8TbWkkwLpym5ANMXhGcPko)
 - [`AI_Better_AA_v1.5`](http://www.mediafire.com/file/zd5tcycq88pg4m0/AI_Better_AA_v1.5.rar/file)
 - [`AI_Better_H_Scenes_v2.6.5`](https://github.com/Mantas-2155X/BetterHScenes/releases)
-- [`AI_Browser_Folders_v2.6.2`](https://www.patreon.com/posts/40644638)
+- [`AI_Browser_Folders_v3.0.0`](https://www.patreon.com/posts/40644638)
 - [`AI_Beaver_Plugin_v1.2.2 `](https://mikkemods.blogspot.com/2020/09/beaver-plugin-122.html)
 - [`AI_Better_Penetration_v5.0.0.3`](https://github.com/Animal42069/BetterPenetration) 
 
 [C]
 --
 - [`AI_Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
-- [`AI_Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`AI_Colliders_v1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`AI_Cloth_Colliders_v1.1`](https://github.com/ManlyMarco/Illusion_ClothColliders)
 - [`AI_Cheat_Tools_v3.2.0`](https://www.patreon.com/posts/37889909)
 
