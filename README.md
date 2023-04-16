@@ -129,7 +129,7 @@
 
 [I]
 --
-- [`AI_Illusion_Overlay_Mods_ᴠ6.1.0`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`AI_Illusion_Overlay_Mods_ᴠ6.1.2.0`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`AI_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 
 [J]
